@@ -1,6 +1,6 @@
 Был проанализирован CSV датасет и выявлены некоторые зависимости, работа проводилась в jupyter notebook.
 
-school - тип школы ("GP" - Gabriel Pereira или "MS" - Mousinho da Silveira)
+school - тип школы ("GP" - Gabriel Pereira или "MS" - Mousinho da Silveira)\n
 sex - пол ("F" - female или "M" - male)
 age - возраст (от 15 до 22)
 address - откуда студент ("U" - urban или "R" - rural)
